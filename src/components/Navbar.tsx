@@ -7,9 +7,9 @@ import { motion } from "framer-motion"
 
 const Navbar = () => {
 
-    const linkedin: string = import.meta.env.VITE_LINKEDIN_URL;
-    const github: string = import.meta.env.VITE_GITHUB_URL;
-    const insta: string = import.meta.env.VITE_INSTA_URL;
+    const linkedin: string = "https://www.linkedin.com/in/allen-li-69b632141/";
+    const github: string = "https://github.com/theallen";
+    const insta: string = "https://www.instagram.com/lala_liang/";
 
     return (
         <motion.nav initial={{y: -200, opacity: 0}} whileInView={{opacity: 1, y: 0}} animate={{y: 0, opacity: 1, transition: {duration: 0.4}}}  className="fixed top-0 left-0 w-full shadow-md py-4 px-6 z-50">
