@@ -1,7 +1,6 @@
 import aboutImg from '../assets/about.jpg'
 import { ABOUT_TEXT } from '../constants'
 import { LazyMotion, motion, domAnimation, useInView} from 'framer-motion'
-import { slideInFromRight } from '../utils/motion'
 import { useEffect, useRef } from 'react'
 
 const About = () => {
