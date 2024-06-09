@@ -20,7 +20,7 @@ export const EXPERIENCES = [
       "Constructed an extendable Python CLI tool for synthetic monitoring adoption, improving governance capabilities.",
       "Developed a run-book for Rigor agent private location deployment, ensuring seamless cross team accessibility."
     ],
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    technologies: ["Python", "TypeScript", "Nest.js", "Bash", "Java", "AWS", "Docker", "Kubernetes", "Helm", "Kafka"],
   },
   {
     year: "3/2021 - 1/2023",
@@ -35,7 +35,7 @@ export const EXPERIENCES = [
       "Collaborated with engineering, product management, and data science teams, to ensure product delivery.",
       "Re-architected core services that modeled company business entities and relationships"
     ],
-    technologies: ["Python", "Flask", "React.js", "mySQL"],
+    technologies: ["Python", "Flask", "React.js", "PostgreSQL", "AWS", "Lambda", "SQS", "SNS", "Amazon S3"],
   },
   {
     year: "6/2018 - 9/2020",
@@ -46,7 +46,7 @@ export const EXPERIENCES = [
       "Automated tests for web applications using Selenium with JavaScript.",
       "Transitioned to back-end/infrastructure team working with Java, Spring Boot, and JPA."
     ],
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    technologies: ["Java", "Spring Boot", "JavaScript", "Selenium"],
   },
 ];
 
