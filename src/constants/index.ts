@@ -11,7 +11,16 @@ export const ABOUT_TEXT = `I’m Allen. I have 3 years of Software engineering e
 
 export const EXPERIENCES = [
   {
-    year: "2/2023 - present",
+    year: "9/2029 - present",
+    role: "Software Engineer",
+    company: "MarketAxess",
+    description: [
+      "Worked on a RBAC system to manage permissions based on roles assigned to users within specific projects and adgroups.", 
+    ],
+    technologies: ["Python", "FastAPI", "AWS", "Docker", "Kubernetes", "Helm", "Kafka"],
+  },
+  {
+    year: "2/2023 - 3/2024",
     role: "Software Engineer",
     company: "Procore",
     description: [
